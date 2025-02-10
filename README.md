@@ -1,4 +1,6 @@
 # Proxy-Checker
+proxy checker 2 mode :
+scan automatic from API https://proxyscrape.com or from file ```proxies.txt```
 
 # Instalation
 ```sh
@@ -18,13 +20,18 @@ git clone https://github.com/widodoxd/Proxy-Checker.git
 ```
 
 # Run Guide
-```sh
+1 open directory
+```sh 
 cd Proxy-Checker
 ```
+
+2 edit file
 ```sh
 nano proxies.txt
 ```
-paste your proxy here. if you have ```CTRL+X``` ```Y``` ```ENTER```
+paste your proxy here. if you want check manual and ```CTRL+X``` ```Y``` ```ENTER``` to save
+
+3 run
 ```sh
-python3 main.py
+python3 wxd2mode.py
 ```
