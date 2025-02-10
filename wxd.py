@@ -1,5 +1,4 @@
 import requests
-import requests[socks]
 from colorama import Fore, Style, init
 
 # Inisialisasi colorama
