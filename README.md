@@ -2,6 +2,18 @@
 proxy checker 2 mode :
 scan automatic from API https://proxyscrape.com or from file ```proxies.txt```
 
+Donation :
+ETH :
+```sh
+0x4ca31fb5db4c90def7de77f5761ed8ee3c12eec7
+```
+SOLANA :
+```sh
+7bM4ZyzUuLcQUFTGp5QXMdQ6XbsHoFbxGTxLjTmYpQ2M
+```
+
+
+
 # Instalation
 ```sh
 sudo apt install python3
