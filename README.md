@@ -1,6 +1,6 @@
 # Proxy-Checker
 
-#Instalation
+# Instalation
 ```sh
 sudo apt install python3
 ```
