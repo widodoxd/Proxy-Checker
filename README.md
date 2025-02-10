@@ -14,7 +14,7 @@ SOLANA :
 
 
 
-# Instalation
+# Instalation For Linux
 ```sh
 sudo apt install python3
 ```
@@ -30,6 +30,26 @@ sudo apt install python3
 ```sh
 git clone https://github.com/widodoxd/Proxy-Checker.git
 ```
+
+# Instalation For Termux
+```sh
+pkg install python3
+```
+```sh
+pkg install git
+```
+```sh
+pip install -r requirements.txt
+```
+```sh
+sudo apt install python3
+```
+```sh
+git clone https://github.com/widodoxd/Proxy-Checker.git
+```
+
+
+
 
 # Run Guide
 1 open directory
