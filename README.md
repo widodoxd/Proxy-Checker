@@ -1,6 +1,5 @@
 # Proxy-Checker-and-Grab
-proxy checker 2 mode :
-scan automatic from API https://proxyscrape.com or from file ```proxies.txt```
+proxy checker 4 mode
 
 Donation :
 ETH :
