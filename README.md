@@ -57,7 +57,7 @@ git clone https://github.com/widodoxd/Proxy-Checker.git
 cd Proxy-Checker
 ```
 
-2 edit file
+2 edit file ( optional )
 ```sh
 nano proxies.txt
 ```
@@ -65,5 +65,10 @@ paste your proxy here. if you want check manual and ```CTRL+X``` ```Y``` ```ENTE
 
 3 run
 ```sh
-python3 wxd2mode.py
+python3 wxd4mode.py
 ```
+4 Select Mode
+  - 1 Grab and Checker Automatic
+  - 2 Manual from file proxies.txt
+  - 3 Manual from file (write your file name)
+  - 4 Manual 1 proxy
