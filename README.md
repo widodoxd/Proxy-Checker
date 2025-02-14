@@ -21,13 +21,13 @@ sudo apt install python3
 sudo apt install git
 ```
 ```sh
-pip install -r requirements.txt
-```
-```sh
 sudo apt install python3
 ```
 ```sh
 git clone https://github.com/widodoxd/Proxy-Checker-and-Grab.git
+```
+```sh
+pip install -r requirements.txt
 ```
 
 # Instalation For Termux
@@ -38,15 +38,14 @@ pkg install python3
 pkg install git
 ```
 ```sh
-pip install -r requirements.txt
-```
-```sh
-sudo apt install python3
+pkg install python3
 ```
 ```sh
 git clone https://github.com/widodoxd/Proxy-Checker-and-Grab.git
 ```
-
+```sh
+pip install -r requirements.txt
+```
 
 
 
