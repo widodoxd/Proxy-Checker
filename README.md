@@ -15,9 +15,6 @@ SOLANA :
 
 # Instalation For Linux
 ```sh
-sudo apt install python3
-```
-```sh
 sudo apt install git
 ```
 ```sh
@@ -31,9 +28,6 @@ pip install -r requirements.txt
 ```
 
 # Instalation For Termux
-```sh
-pkg install python3
-```
 ```sh
 pkg install git
 ```
