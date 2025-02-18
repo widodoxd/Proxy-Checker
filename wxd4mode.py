@@ -7,7 +7,7 @@ import time
 init()
 
 # File yang berisi daftar proxy
-proxy_file = "proxies.txt"
+proxy_file = "active_proxies.txt"
 
 # File untuk menyimpan proxy yang aktif
 output_file = "active_proxies.txt"
@@ -122,7 +122,7 @@ def main():
     time.sleep(2)
     print("Select mode:")
     print("1. Scan from API")
-    print("2. Manual from proxies.txt")
+    print("2. Manual from active_proxies.txt")
     print("3. Manual from custom file")
     print("4. Check single proxy manually")
     mode = input("Enter mode (1/2/3/4): ")
