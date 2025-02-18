@@ -1,4 +1,4 @@
-# Proxy-Checker-and-Grab
+# Proxy-Checker-and-Scraper
 proxy checker 4 mode
 
 Donation :
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 # Run Guide
 1 open directory
 ```sh 
-cd Proxy-Checker
+cd Proxy-Checker-and-Scraper
 ```
 
 2 edit file ( optional )
