@@ -51,7 +51,7 @@ cd Proxy-Checker
 
 2 edit file ( optional )
 ```sh
-nano proxies.txt
+nano active_proxies.txt
 ```
 paste your proxy here. if you want check manual and ```CTRL+X``` ```Y``` ```ENTER``` to save
 
@@ -61,6 +61,8 @@ python3 wxd4mode.py
 ```
 4 Select Mode
   - 1 Grab and Checker Automatic
-  - 2 Manual from file proxies.txt
+  - 2 Manual from file active_proxies.txt
   - 3 Manual from file (write your file name)
   - 4 Manual 1 proxy
+
+5 If check your proxy done. proxy active saved in `active_proxies.txt`
